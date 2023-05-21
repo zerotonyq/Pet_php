@@ -1,0 +1,176 @@
+[Sat May 20 11:05:53.053228 2023] [core:warn] [pid 15256:tid 392] AH00098: pid file C:/php_project/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 20 11:05:53.054938 2023] [mpm_winnt:notice] [pid 15256:tid 392] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sat May 20 11:05:53.054938 2023] [mpm_winnt:notice] [pid 15256:tid 392] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 11:05:53.054938 2023] [core:notice] [pid 15256:tid 392] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 11:05:53.056938 2023] [mpm_winnt:notice] [pid 15256:tid 392] AH00418: Parent: Created child process 10148
+[Sat May 20 11:05:53.325233 2023] [mpm_winnt:notice] [pid 10148:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 11:29:17.375474 2023] [mpm_winnt:notice] [pid 15256:tid 392] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 11:29:19.399582 2023] [mpm_winnt:notice] [pid 10148:tid 392] AH00364: Child: All worker threads have exited.
+[Sat May 20 11:29:19.423509 2023] [mpm_winnt:notice] [pid 15256:tid 392] AH00430: Parent: Child process 10148 exited successfully.
+[Sat May 20 11:29:21.572050 2023] [mpm_winnt:notice] [pid 7088:tid 376] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sat May 20 11:29:21.572050 2023] [mpm_winnt:notice] [pid 7088:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 11:29:21.572050 2023] [core:notice] [pid 7088:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 11:29:21.575050 2023] [mpm_winnt:notice] [pid 7088:tid 376] AH00418: Parent: Created child process 5336
+[Sat May 20 11:29:21.730053 2023] [mpm_winnt:notice] [pid 5336:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 11:30:59.761302 2023] [mpm_winnt:notice] [pid 7088:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 11:31:01.779231 2023] [mpm_winnt:notice] [pid 5336:tid 392] AH00364: Child: All worker threads have exited.
+[Sat May 20 11:31:01.803382 2023] [mpm_winnt:notice] [pid 7088:tid 376] AH00430: Parent: Child process 5336 exited successfully.
+[Sat May 20 11:33:25.100082 2023] [mpm_winnt:notice] [pid 10428:tid 376] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sat May 20 11:33:25.101082 2023] [mpm_winnt:notice] [pid 10428:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 11:33:25.101082 2023] [core:notice] [pid 10428:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 11:33:25.103147 2023] [mpm_winnt:notice] [pid 10428:tid 376] AH00418: Parent: Created child process 14264
+[Sat May 20 11:33:25.375673 2023] [mpm_winnt:notice] [pid 14264:tid 440] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 11:40:05.595300 2023] [mpm_winnt:notice] [pid 10428:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 11:40:07.612371 2023] [mpm_winnt:notice] [pid 14264:tid 440] AH00364: Child: All worker threads have exited.
+[Sat May 20 11:40:07.635650 2023] [mpm_winnt:notice] [pid 10428:tid 376] AH00430: Parent: Child process 14264 exited successfully.
+[Sat May 20 11:40:09.769800 2023] [mpm_winnt:notice] [pid 13580:tid 376] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sat May 20 11:40:09.769800 2023] [mpm_winnt:notice] [pid 13580:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 11:40:09.769800 2023] [core:notice] [pid 13580:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 11:40:09.772805 2023] [mpm_winnt:notice] [pid 13580:tid 376] AH00418: Parent: Created child process 11328
+[Sat May 20 11:40:09.932853 2023] [mpm_winnt:notice] [pid 11328:tid 404] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 11:53:09.269512 2023] [mpm_winnt:notice] [pid 13580:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 11:53:11.289180 2023] [mpm_winnt:notice] [pid 11328:tid 404] AH00364: Child: All worker threads have exited.
+[Sat May 20 11:53:11.312476 2023] [mpm_winnt:notice] [pid 13580:tid 376] AH00430: Parent: Child process 11328 exited successfully.
+[Sat May 20 11:57:35.354437 2023] [mpm_winnt:notice] [pid 13168:tid 376] AH00455: Apache/2.4.57 (Win64) configured -- resuming normal operations
+[Sat May 20 11:57:35.354437 2023] [mpm_winnt:notice] [pid 13168:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 11:57:35.354437 2023] [core:notice] [pid 13168:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 11:57:35.357437 2023] [mpm_winnt:notice] [pid 13168:tid 376] AH00418: Parent: Created child process 3832
+[Sat May 20 11:57:35.518314 2023] [mpm_winnt:notice] [pid 3832:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 11:57:50.695549 2023] [mpm_winnt:notice] [pid 13168:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 11:57:52.702863 2023] [mpm_winnt:notice] [pid 3832:tid 392] AH00364: Child: All worker threads have exited.
+[Sat May 20 11:57:52.727380 2023] [mpm_winnt:notice] [pid 13168:tid 376] AH00430: Parent: Child process 3832 exited successfully.
+[Sat May 20 11:58:17.055202 2023] [mpm_winnt:notice] [pid 9832:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sat May 20 11:58:17.055202 2023] [mpm_winnt:notice] [pid 9832:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 11:58:17.055202 2023] [core:notice] [pid 9832:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 11:58:17.058202 2023] [mpm_winnt:notice] [pid 9832:tid 376] AH00418: Parent: Created child process 1276
+[Sat May 20 11:58:17.233955 2023] [mpm_winnt:notice] [pid 1276:tid 396] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 12:00:20.808479 2023] [mpm_winnt:notice] [pid 9832:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 12:00:22.820518 2023] [mpm_winnt:notice] [pid 1276:tid 396] AH00364: Child: All worker threads have exited.
+[Sat May 20 12:00:22.844927 2023] [mpm_winnt:notice] [pid 9832:tid 376] AH00430: Parent: Child process 1276 exited successfully.
+[Sat May 20 12:00:24.984575 2023] [mpm_winnt:notice] [pid 3872:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sat May 20 12:00:24.984575 2023] [mpm_winnt:notice] [pid 3872:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 12:00:24.984575 2023] [core:notice] [pid 3872:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 12:00:24.987575 2023] [mpm_winnt:notice] [pid 3872:tid 376] AH00418: Parent: Created child process 9504
+[Sat May 20 12:00:25.159925 2023] [mpm_winnt:notice] [pid 9504:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 12:01:01.210619 2023] [mpm_winnt:notice] [pid 3872:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 12:01:31.223938 2023] [mpm_winnt:notice] [pid 3872:tid 376] AH00431: Parent: Forcing termination of child process 9504
+[Sat May 20 12:01:47.223743 2023] [mpm_winnt:notice] [pid 6832:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sat May 20 12:01:47.223743 2023] [mpm_winnt:notice] [pid 6832:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 12:01:47.223743 2023] [core:notice] [pid 6832:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 12:01:47.226744 2023] [mpm_winnt:notice] [pid 6832:tid 376] AH00418: Parent: Created child process 1968
+[Sat May 20 12:01:47.402306 2023] [mpm_winnt:notice] [pid 1968:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 12:02:14.667958 2023] [mpm_winnt:notice] [pid 6832:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 12:02:44.673960 2023] [mpm_winnt:notice] [pid 6832:tid 376] AH00431: Parent: Forcing termination of child process 1968
+[Sat May 20 12:02:50.759264 2023] [mpm_winnt:notice] [pid 14620:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sat May 20 12:02:50.759264 2023] [mpm_winnt:notice] [pid 14620:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 12:02:50.759264 2023] [core:notice] [pid 14620:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 12:02:50.762264 2023] [mpm_winnt:notice] [pid 14620:tid 376] AH00418: Parent: Created child process 11324
+[Sat May 20 12:02:50.940106 2023] [mpm_winnt:notice] [pid 11324:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 12:06:23.438131 2023] [mpm_winnt:notice] [pid 14620:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 12:06:25.451847 2023] [mpm_winnt:notice] [pid 11324:tid 392] AH00364: Child: All worker threads have exited.
+[Sat May 20 12:06:25.477168 2023] [mpm_winnt:notice] [pid 14620:tid 376] AH00430: Parent: Child process 11324 exited successfully.
+[Sat May 20 12:06:27.642292 2023] [mpm_winnt:notice] [pid 1960:tid 388] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sat May 20 12:06:27.642292 2023] [mpm_winnt:notice] [pid 1960:tid 388] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 12:06:27.642292 2023] [core:notice] [pid 1960:tid 388] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 12:06:27.645293 2023] [mpm_winnt:notice] [pid 1960:tid 388] AH00418: Parent: Created child process 3136
+[Sat May 20 12:06:27.819183 2023] [mpm_winnt:notice] [pid 3136:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 14:41:34.923863 2023] [mpm_winnt:notice] [pid 1960:tid 388] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 14:41:36.931010 2023] [mpm_winnt:notice] [pid 3136:tid 392] AH00364: Child: All worker threads have exited.
+[Sat May 20 14:41:36.962379 2023] [mpm_winnt:notice] [pid 1960:tid 388] AH00430: Parent: Child process 3136 exited successfully.
+[Sat May 20 14:41:43.365857 2023] [mpm_winnt:notice] [pid 9948:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sat May 20 14:41:43.366857 2023] [mpm_winnt:notice] [pid 9948:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 14:41:43.366857 2023] [core:notice] [pid 9948:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 14:41:43.369858 2023] [mpm_winnt:notice] [pid 9948:tid 376] AH00418: Parent: Created child process 17076
+[Sat May 20 14:41:43.585601 2023] [mpm_winnt:notice] [pid 17076:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 14:52:35.369351 2023] [mpm_winnt:notice] [pid 9948:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 14:52:37.389904 2023] [mpm_winnt:notice] [pid 17076:tid 392] AH00364: Child: All worker threads have exited.
+[Sat May 20 14:52:37.420130 2023] [mpm_winnt:notice] [pid 9948:tid 376] AH00430: Parent: Child process 17076 exited successfully.
+[Sat May 20 14:52:39.645405 2023] [mpm_winnt:notice] [pid 13660:tid 392] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sat May 20 14:52:39.645405 2023] [mpm_winnt:notice] [pid 13660:tid 392] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 14:52:39.645405 2023] [core:notice] [pid 13660:tid 392] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 14:52:39.649411 2023] [mpm_winnt:notice] [pid 13660:tid 392] AH00418: Parent: Created child process 13512
+[Sat May 20 14:52:39.855674 2023] [mpm_winnt:notice] [pid 13512:tid 396] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 14:55:09.228746 2023] [mpm_winnt:notice] [pid 13660:tid 392] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 14:55:11.246098 2023] [mpm_winnt:notice] [pid 13512:tid 396] AH00364: Child: All worker threads have exited.
+[Sat May 20 14:55:11.275286 2023] [mpm_winnt:notice] [pid 13660:tid 392] AH00430: Parent: Child process 13512 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sat May 20 14:55:13.462099 2023] [mpm_winnt:notice] [pid 17064:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sat May 20 14:55:13.462099 2023] [mpm_winnt:notice] [pid 17064:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sat May 20 14:55:13.462099 2023] [core:notice] [pid 17064:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sat May 20 14:55:13.466094 2023] [mpm_winnt:notice] [pid 17064:tid 376] AH00418: Parent: Created child process 7220
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sat May 20 14:55:13.667038 2023] [mpm_winnt:notice] [pid 7220:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sun May 21 11:32:54.007016 2023] [mpm_winnt:notice] [pid 17064:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 21 11:33:04.230486 2023] [mpm_winnt:notice] [pid 7220:tid 392] AH00364: Child: All worker threads have exited.
+[Sun May 21 11:33:04.265041 2023] [mpm_winnt:notice] [pid 17064:tid 376] AH00430: Parent: Child process 7220 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 11:33:06.571654 2023] [mpm_winnt:notice] [pid 11968:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sun May 21 11:33:06.571654 2023] [mpm_winnt:notice] [pid 11968:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sun May 21 11:33:06.571654 2023] [core:notice] [pid 11968:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sun May 21 11:33:06.573707 2023] [mpm_winnt:notice] [pid 11968:tid 376] AH00418: Parent: Created child process 18356
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 11:33:06.749358 2023] [mpm_winnt:notice] [pid 18356:tid 404] AH00354: Child: Starting 64 worker threads.
+[Sun May 21 13:23:55.705620 2023] [mpm_winnt:notice] [pid 11968:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 21 13:23:57.719603 2023] [mpm_winnt:notice] [pid 18356:tid 404] AH00364: Child: All worker threads have exited.
+[Sun May 21 13:23:57.746769 2023] [mpm_winnt:notice] [pid 11968:tid 376] AH00430: Parent: Child process 18356 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 13:23:59.912607 2023] [mpm_winnt:notice] [pid 4648:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sun May 21 13:23:59.912607 2023] [mpm_winnt:notice] [pid 4648:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sun May 21 13:23:59.912607 2023] [core:notice] [pid 4648:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sun May 21 13:23:59.914607 2023] [mpm_winnt:notice] [pid 4648:tid 376] AH00418: Parent: Created child process 7656
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 13:24:00.097227 2023] [mpm_winnt:notice] [pid 7656:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sun May 21 13:25:12.256451 2023] [mpm_winnt:notice] [pid 4648:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 21 13:25:14.922797 2023] [mpm_winnt:notice] [pid 7656:tid 392] AH00364: Child: All worker threads have exited.
+[Sun May 21 13:25:14.949795 2023] [mpm_winnt:notice] [pid 4648:tid 376] AH00430: Parent: Child process 7656 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 13:25:16.448906 2023] [mpm_winnt:notice] [pid 15372:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sun May 21 13:25:16.448906 2023] [mpm_winnt:notice] [pid 15372:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sun May 21 13:25:16.448906 2023] [core:notice] [pid 15372:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sun May 21 13:25:16.451910 2023] [mpm_winnt:notice] [pid 15372:tid 376] AH00418: Parent: Created child process 13940
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 13:25:16.738832 2023] [mpm_winnt:notice] [pid 13940:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sun May 21 13:29:55.418168 2023] [mpm_winnt:notice] [pid 15372:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 21 13:30:07.324737 2023] [mpm_winnt:notice] [pid 13940:tid 400] AH00364: Child: All worker threads have exited.
+[Sun May 21 13:30:07.358737 2023] [mpm_winnt:notice] [pid 15372:tid 376] AH00430: Parent: Child process 13940 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 13:30:22.980630 2023] [mpm_winnt:notice] [pid 1060:tid 400] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sun May 21 13:30:22.980630 2023] [mpm_winnt:notice] [pid 1060:tid 400] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sun May 21 13:30:22.980630 2023] [core:notice] [pid 1060:tid 400] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sun May 21 13:30:22.983579 2023] [mpm_winnt:notice] [pid 1060:tid 400] AH00418: Parent: Created child process 16136
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 13:30:23.162715 2023] [mpm_winnt:notice] [pid 16136:tid 408] AH00354: Child: Starting 64 worker threads.
+[Sun May 21 13:49:04.426751 2023] [mpm_winnt:notice] [pid 1060:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 21 13:49:08.284852 2023] [mpm_winnt:notice] [pid 16136:tid 408] AH00364: Child: All worker threads have exited.
+[Sun May 21 13:49:08.310141 2023] [mpm_winnt:notice] [pid 1060:tid 400] AH00430: Parent: Child process 16136 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 13:49:08.636837 2023] [mpm_winnt:notice] [pid 10624:tid 384] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sun May 21 13:49:08.636837 2023] [mpm_winnt:notice] [pid 10624:tid 384] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sun May 21 13:49:08.636837 2023] [core:notice] [pid 10624:tid 384] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sun May 21 13:49:08.639899 2023] [mpm_winnt:notice] [pid 10624:tid 384] AH00418: Parent: Created child process 4296
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 13:49:08.935415 2023] [mpm_winnt:notice] [pid 4296:tid 392] AH00354: Child: Starting 64 worker threads.
+[Sun May 21 14:06:10.221904 2023] [mpm_winnt:notice] [pid 10624:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 21 14:06:12.236840 2023] [mpm_winnt:notice] [pid 4296:tid 392] AH00364: Child: All worker threads have exited.
+[Sun May 21 14:06:12.268664 2023] [mpm_winnt:notice] [pid 10624:tid 384] AH00430: Parent: Child process 4296 exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 14:06:14.431505 2023] [mpm_winnt:notice] [pid 12156:tid 376] AH00455: Apache/2.4.57 (Win64) PHP/8.2.6 configured -- resuming normal operations
+[Sun May 21 14:06:14.431505 2023] [mpm_winnt:notice] [pid 12156:tid 376] AH00456: Apache Lounge VS17 Server built: May  9 2023 16:01:09
+[Sun May 21 14:06:14.431505 2023] [core:notice] [pid 12156:tid 376] AH00094: Command line: 'c:\\php_project\\apache\\bin\\httpd.exe -d C:/php_project/apache'
+[Sun May 21 14:06:14.434539 2023] [mpm_winnt:notice] [pid 12156:tid 376] AH00418: Parent: Created child process 17544
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql.dll' (tried: C:/php_project/php/ext\\php_mysql.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c), C:/php_project/php/ext\\php_php_mysql.dll.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c)) in Unknown on line 0
+PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[Sun May 21 14:06:14.615188 2023] [mpm_winnt:notice] [pid 17544:tid 408] AH00354: Child: Starting 64 worker threads.
