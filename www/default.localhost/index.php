@@ -27,7 +27,7 @@ session_start();
 			}
 		</script>
 		<?php
-		$link = mysqli_connect("localhost", "root", "Baton20043748", "reports_db");
+		$link = mysqli_connect("localhost", "root", "", "reports_db");
 		if (mysqli_connect_errno())
 			echo "Подключение невозможно: " . mysqli_connect_error();
 		mysqli_query($link, "SET NAMES 'utf8'");
